@@ -1,5 +1,5 @@
-app_name = "tldraw_whiteboard"
-app_title = "Tldraw Whiteboard"
+app_name = "tldraw_Blackboard"
+app_title = "Tldraw Blackboard"
 app_publisher = "Build With Hussain"
 app_description = "Whiteboard, right in desk, feature reach."
 app_email = "hussain@frappe.io"

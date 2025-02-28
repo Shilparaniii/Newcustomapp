@@ -32,5 +32,5 @@ class Whiteboard {
 }
 
 frappe.provide("frappe.ui");
-frappe.ui.Whiteboard = Whiteboard;
+frappe.ui.Whiteboard = Blackboard;
 export default Whiteboard;
